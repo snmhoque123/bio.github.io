@@ -1,3 +1,4 @@
+# S N M Azizul Hoque's Data Analyst Portfolio
 ## About Me
 I am a dedicated Data Analyst with extensive experience in data analysis, data visualization, and data engineering. I am proficient in Microsoft SQL Server, SSMS, Power BI, Tableau, MATLAB, and Python. My expertise extends to ETL processes and statistical methods for data analysis. I am adept at utilizing cloud platforms such as Azure and Snowflake Cloud to deliver scalable BI solutions. I have a proven ability to collaborate effectively in fast-paced environments and drive data-driven decision-making.
 
