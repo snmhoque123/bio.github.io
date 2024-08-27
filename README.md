@@ -1,5 +1,5 @@
-## PROFESSIONAL SUMMARY
-Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
+## `PROFESSIONAL SUMMARY`
+> Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
 
 ## `PROFESSIONAL EXPERIENCE`
 #### Data Analyst, Cansoft Technologies                                    January 2024 - Present
