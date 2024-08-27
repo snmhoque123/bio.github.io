@@ -27,14 +27,14 @@
 
 
 ## `PROJECT EXPERIENCE`
-#### Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies
+#### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies](https://snmhoque123.github.io/sql.github.io/)
 - [ ] Analyzed OLAP using multi-dimensional data organization techniques and related tools.
 - [ ] Developed and tested ETL processes for data movement from heterogeneous source systems (MS SQL database, flat files) to EDW database.
 - [ ] Analyzed the impact on delivery services and customer traffic, resulting in a 30% reduction in overhead costs.
 - [ ] Built data visualization dashboards, tools, and infrastructure Tableau and Power BI.
 - [ ] **Tools Used**: SSMS, SSRS, SSAS, DAX, Power BI, Power Query, Tableau
 
-#### Data Warehouse Design of Human Resource Analysis, Cansoft Technologies
+#### [Data Warehouse Design of Human Resource Analysis, Cansoft Technologies](https://public.tableau.com/app/profile/snm.hoque/viz/HR_Report_Tableau_Datbase/TescaHR)
 - [ ] Designed and produced bus matrix to identify conforming role-playing dimensions.
 - [ ] Monitored and resolved issues within data warehouses, data marts, and reporting systems to ensure data accuracy and availability.
 - [ ] Conducted analyses of overtime, misconduct, and absenteeism, leading to a 40% improvement in work ethics and customer satisfaction.
@@ -46,12 +46,12 @@
 - [ ] Utilized machine learning algorithms to forecast forest fires in the Alberta region.
 - [ ] **Tools Used**: SQL, SSMS, SSIS, Power BI, Power Query, Excel, Tableau
 
-#### Floods and Deforestation Mapping, Mi2LABS
+#### [Floods and Deforestation Mapping, Mi2LABS](https://snmhoque123.github.io/ml_landslides_app.github.io/)
 - [ ] Extracted, manipulated, and analyzed rainfall, type of soil, terrain, and geological data.
 - [ ] Performed data migration from on-premises server to the cloud (AWS S3), leading to significant data storage cost reduction of approximately 70%.
 - [ ] **Tools Used**: Python, SQL, and ArcGIS
 
-#### Landslides Forecast and Mapping, Mi2LABS
+#### [Landslides Forecast and Mapping, Mi2LABS](https://snmhoque123.github.io/ml_landslides_app.github.io/)
 - [ ] Designed a landslide prediction model by analyzing results using statistical techniques driven by monsoon rain, which led to a $45,000 contract.
 - [ ] Prepared an Android App to view the predicted landslide locations.
 - [ ] **Tools Used**: MATLAB, Python, SQL, and ArcGIS
