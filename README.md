@@ -12,17 +12,17 @@ Data and BI Analyst with 8+ years of experience in data migration, modeling, and
 - Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
 - Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
 
-> #### Lab Instructor, Memorial University of Newfoundland           September 2021 – January 2024
+#### Lab Instructor, Memorial University of Newfoundland           September 2021 – January 2024
 - Automated data workflows using Python, improving lab operations and efficiency.
 - Developed scripts for file management with AWS S3 and maintained documentation using Git.
 - [Taught and designed labs in computer science and engineering, leveraging tools like SSMS, SSIS, and MATLAB.
 
-> #### Data Analyst, Mi2LABS                                January 2017 - August 2021
+#### Data Analyst, Mi2LABS                                January 2017 - August 2021
 - Optimized data pipelines with SQL and Python, ensuring data accuracy and accessibility.
 - Performed statistical analysis to guide data-driven decision-making and created Power BI and Tableau dashboards.
 - Developed and tested ETL processes to support business-critical operations and strategic initiatives.
 
-> #### SolidWorks Designer, Steelcraft, Edmonton, AB             August 2015 - December 2016
+#### SolidWorks Designer, Steelcraft, Edmonton, AB             August 2015 - December 2016
 - Provided technical solutions using LabView and MATLAB, managed inventory, and created SolidWorks designs to meet business requirements.
 
 
@@ -56,14 +56,15 @@ Data and BI Analyst with 8+ years of experience in data migration, modeling, and
 - [ ] Prepared an Android App to view the predicted landslide locations.
 - [ ] **Tools Used**: MATLAB, Python, SQL, and ArcGIS
 
- ## `TECHNICAL SKILLS`
-> |Database Management| MS SQL Server, MySQL, BigQuery|
-> |------------------------|------------------------------------------|
-> |**BI & Data Model Tools**| **Power BI, Tableau, SSIS, SSAS, SSRS, SQL Server Management Studio, Tabular Model, Multi-Dimensional Model**|
-> | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query, MATLAB, IDL, RST, Stata**|
-> | **Data Warehousing**| **Design & Dataflows, Snowflake**|
-> | **Cloud Platforms**| **AWS, Azure, Google Cloud Platform**|
-> | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
+## `TECHNICAL SKILLS`
+
+ |Database Management| MS SQL Server, MySQL, BigQuery|
+ |------------------------|------------------------------------------|
+ |**BI & Data Model Tools**| **Power BI, Tableau, SSIS, SSAS, SSRS, SQL Server Management Studio, Tabular Model, Multi-Dimensional Model**|
+ | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query, MATLAB, IDL, RST, Stata**|
+ | **Data Warehousing**| **Design & Dataflows, Snowflake**|
+ | **Cloud Platforms**| **AWS, Azure, Google Cloud Platform**|
+ | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
 
 ## `EDUCATION`
 - [x] Google Advanced Data Analytics Professional Certificate (March -August 2024)
