@@ -2,11 +2,11 @@
 Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
 
 ## `PROFESSIONAL EXPERIENCE`
-> #### Data Analyst, Cansoft Technologies                                            January 2024 - Present
-- [ ] Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
-- [ ] Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
-- [ ] Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
-- [ ] Conducted peer code reviews and contributed to process improvements in data management.
+> #### Data Analyst, Cansoft Technologies                                    January 2024 - Present
+[ ] Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
+[ ] Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
+[ ] Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
+[ ] Conducted peer code reviews and contributed to process improvements in data management.
 ##### Key Achievements:
 - [ ] Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
 - [ ] Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
@@ -65,7 +65,7 @@ Data and BI Analyst with 8+ years of experience in data migration, modeling, and
 > | **Cloud Platforms**| **AWS, Azure, Google Cloud Platform**|
 > | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
 
-## :man_student:`EDUCATION`
+## `EDUCATION`
 - [x] Google Advanced Data Analytics Professional Certificate (March -August 2024)
 - [x] Google Business Intelligence Professional Certificate (April – August 2024)
 - [x] Ph.D. in Physics, University of Alberta, Canada (2009-2015)
@@ -79,10 +79,10 @@ Data and BI Analyst with 8+ years of experience in data migration, modeling, and
 - [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
 - [ ] Organizational Analysis (Stanford University, Coursera)
 
-### HOBBY
+### `HOBBY`
 In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-## CONTACTS
+### `CONTACTS`
 - [LinkedIn](https://www.linkedin.com/in/s-n-m-azizul-hoque-baba3b27/)
 - Email: snmhoque@gmail.com
 - Address: Edmonton, AB T5K 1Y5
