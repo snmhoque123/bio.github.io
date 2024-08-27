@@ -1,98 +1,88 @@
-# S N M Azizul Hoque's Data Analyst Portfolio
-## About Me
-I am a dedicated Data Analyst with extensive experience in data analysis, data visualization, and data engineering. I am proficient in Microsoft SQL Server, SSMS, Power BI, Tableau, MATLAB, and Python. My expertise extends to ETL processes and statistical methods for data analysis. I am adept at utilizing cloud platforms such as Azure and Snowflake Cloud to deliver scalable BI solutions. I have a proven ability to collaborate effectively in fast-paced environments and drive data-driven decision-making.
+## PROFESSIONAL SUMMARY
+Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
 
-With over five years of experience in Synthetic Aperture Radar (SAR) analysis and its application to monitoring environmental data, I bring a unique perspective to data analytics. During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which are valuable assets in my role as a data specialist.
+## `PROFESSIONAL EXPERIENCE`
+> #### Data Analyst, Cansoft Technologies                                            January 2024 - Present
+- [ ] Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
+- [ ] Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
+- [ ] Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
+- [ ] Conducted peer code reviews and contributed to process improvements in data management.
+##### Key Achievements:
+- [ ] Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
+- [ ] Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
+- [ ] Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
 
+> #### Instructor, Memorial University of Newfoundland           September 2021 – January 2024
+- [ ] Automated data workflows using Python, improving lab operations and efficiency.
+- [ ] Developed scripts for file management with AWS S3 and maintained documentation using Git.
+- [ ] Taught and designed labs in computer science and engineering, leveraging tools like SSMS, SSIS, and MATLAB.
+
+> #### Data Analyst, Mi2LABS                                January 2017 - August 2021
+- [ ] Optimized data pipelines with SQL and Python, ensuring data accuracy and accessibility.
+- [ ] Performed statistical analysis to guide data-driven decision-making and created Power BI and Tableau dashboards.
+- [ ] Developed and tested ETL processes to support business-critical operations and strategic initiatives.
+
+> #### SolidWorks Designer, Steelcraft, Edmonton, AB             August 2015 - December 2016
+- [ ] Provided technical solutions using LabView and MATLAB, managed inventory, and created SolidWorks designs to meet business requirements.
+
+
+## `PROJECT EXPERIENCE`
+#### Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies
+- [ ] Analyzed OLAP using multi-dimensional data organization techniques and related tools.
+- [ ] Developed and tested ETL processes for data movement from heterogeneous source systems (MS SQL database, flat files) to EDW database.
+- [ ] Analyzed the impact on delivery services and customer traffic, resulting in a 30% reduction in overhead costs.
+- [ ] Built data visualization dashboards, tools, and infrastructure Tableau and Power BI.
+- [ ] **Tools Used**: SSMS, SSRS, SSAS, DAX, Power BI, Power Query, Tableau
+
+#### Data Warehouse Design of Human Resource Analysis, Cansoft Technologies
+- [ ] Designed and produced bus matrix to identify conforming role-playing dimensions.
+- [ ] Monitored and resolved issues within data warehouses, data marts, and reporting systems to ensure data accuracy and availability.
+- [ ] Conducted analyses of overtime, misconduct, and absenteeism, leading to a 40% improvement in work ethics and customer satisfaction.
+- [ ] **Tools Used**: SQL Server, DAX, Power BI, Power Query, Tableau
+
+#### Environmental Data Analysis and Visualization, Cansoft Technologies
+- [ ] Developed real time air quality reporting system during wildfire.
+- [ ] Developed a dashboard for reporting using Azure to monitor AQI, PM2.5, PM10, ground-level ozone, nitrogen dioxide, and sulfur dioxide.
+- [ ] Utilized machine learning algorithms to forecast forest fires in the Alberta region.
+- [ ] **Tools Used**: SQL, SSMS, SSIS, Power BI, Power Query, Excel, Tableau
+
+#### Floods and Deforestation Mapping, Mi2LABS
+- [ ] Extracted, manipulated, and analyzed rainfall, type of soil, terrain, and geological data.
+- [ ] Performed data migration from on-premises server to the cloud (AWS S3), leading to significant data storage cost reduction of approximately 70%.
+- [ ] **Tools Used**: Python, SQL, and ArcGIS
+
+#### Landslides Forecast and Mapping, Mi2LABS
+- [ ] Designed a landslide prediction model by analyzing results using statistical techniques driven by monsoon rain, which led to a $45,000 contract.
+- [ ] Prepared an Android App to view the predicted landslide locations.
+- [ ] **Tools Used**: MATLAB, Python, SQL, and ArcGIS
+
+ ## `TECHNICAL SKILLS`
+> |Database Management| MS SQL Server, MySQL, BigQuery|
+> |------------------------|------------------------------------------|
+> |**BI & Data Model Tools**| **Power BI, Tableau, SSIS, SSAS, SSRS, SQL Server Management Studio, Tabular Model, Multi-Dimensional Model**|
+> | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query, MATLAB, IDL, RST, Stata**|
+> | **Data Warehousing**| **Design & Dataflows, Snowflake**|
+> | **Cloud Platforms**| **AWS, Azure, Google Cloud Platform**|
+> | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
+
+## :man_student:`EDUCATION`
+- [x] Google Advanced Data Analytics Professional Certificate (March -August 2024)
+- [x] Google Business Intelligence Professional Certificate (April – August 2024)
+- [x] Ph.D. in Physics, University of Alberta, Canada (2009-2015)
+- [x] Post Graduate Diploma in Earth System Physics, The Abdus Salam ICTP, Italy (2007-2008)
+- [x] B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
+
+## `CERTIFICATES`
+- [ ] Advance BI Analyst Training (ARAP Technologies)
+- [ ] [IBM Database and SQL for Data Science with Python](https://coursera.org/verify/SN4EFWQP9XTA)
+- [ ] [IBM Data Analysis with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
+- [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
+- [ ] Organizational Analysis (Stanford University, Coursera)
+
+### HOBBY
 In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-## Projects
-#### Project 1: Environmental Monitoring with SAR Data
-- Description: Analysis of SAR data to monitor deforestation, floods, and landslides.
-- Technologies Used: Python, ArcGIS, MATLAB
-- Repository Link: <a href="https://www.mi2labs.com/"> SAR_Environmental_Monitoring </a></p> 
-
-#### Project 2: BI Solutions with Azure and Snowflake
-- Description: Developed scalable BI solutions using Azure and Snowflake for real-time data analysis and visualization.
-- Technologies Used: Power BI, SQL Server, Snowflake Cloud
-- Repository Link: BI_Solutions_Azure_Snowflake <a href="https://www.mi2labs.com/"> BI_Solutions_Azure_Snowflake </a></p> 
-
-#### Project 3: Data Visualization with Power BI and Tableau
-- Description: Created dynamic and interactive dashboards for various business use cases.
-- Technologies Used: Power BI, Tableau, SQL Server
-- Repository Link: Data_Visualization_PowerBI_Tableau <a href="https://www.mi2labs.com/"> Data_Visualization_PowerBI_Tableau </a></p> 
-
-#### Project 4: ETL Process Automation
-- Description: Automated ETL processes to improve data pipeline efficiency and data accuracy.
-- Technologies Used: Python, SQL Server, SSMS
-- Repository Link: ETL_Process_Automation <a href="https://www.mi2labs.com/"> ETL_Process_Automation </a></p> 
-
-## Skills
-- Data Analysis: Proficient in analyzing large datasets to identify patterns and trends.
-- Data Visualization: Expertise in creating interactive dashboards using Power BI and Tableau.
-- Data Engineering: Skilled in designing and implementing ETL processes.
-- Programming Languages: Python, MATLAB, SQL
-- Tools & Technologies: Microsoft SQL Server, SSMS, Power BI, Tableau, ArcGIS
-- Cloud Platforms: Azure, Snowflake Cloud
-
-- [Education](https://github.com/snmhoque123/Data-Analysis-Documentation/main/README.md#education)
-- [Certificates](https://github.com/snmhoque123/Data-Analysis-Documentation/edit/main/README.md#certificates) 
-- [Contact](https://github.com/snmhoque123/Data-Analysis-Documentation/main/README.md#contacts)
-
-## Resume
-My CV in <a href="https://www.mi2labs.com/">pdf</a></p> 
-
-
-### Table of Content
-- [Data Science](https://github.com/snmhoque123/DataScience)
-- [Image Processing](https://github.com/snmhoque123/image-processing)
-- Project Overview
-- Data Sources
-- Recommendations
-
-### Project Overview
-The data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing heterogeneous data from different sources, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
-
-
-
-### Tools used
-- Excel (for data profiling)
-- SQL Server for data Analysis
-- Power BI
- #![Power BI for creating report](https://github.com/snmhoque123/snmhoque123.github.io/blob/main/TescaBI-images-1.jpg) 
-- Tableau
-- Dax
-- Microsoft Visio
-
-###  Data Cleaning/Preparation
-
-In the initial data preparation phase, we performed the following tasks:
-1. Data Loading and Inspection
-2. Handling missing values.
-3. Data cleaning and formatting.
-
-### Exploratory Data Analysis
-  
-Based on the analysis, we recommended the following actions:
-- Analyse the OLTP Database during off-peak period
-- Review SQL scripts for faster processing
-
-### Results and Finding
-
-### References
-1. SQL for Business
-2. Mi2Labs (https://www.mi2labs.com/)
-
-## Education
-- Ph.D. in Physics, University of Alberta, Canada (2009-2015)
-- Post Graduate Diploma in Earth System Physics, The Abdus Salam ICTP, Italy (2007-2008)
-- B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
-
-## Certificates
-- [Google Data Analytics Professional Certificate] (#) (Sep 2023) (Coursera - Google)
-- [Tableau] (#) (Oct 2023) (Coursera - University of California, Davis)
-- [Python for Data Science] (#) (Feb 2023) (Coursera - University of Colorado Boulder)
-
-## Contacts
+## CONTACTS
 - [LinkedIn](https://www.linkedin.com/in/s-n-m-azizul-hoque-baba3b27/)
 - Email: snmhoque@gmail.com
+- Address: Edmonton, AB T5K 1Y5
