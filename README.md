@@ -2,28 +2,28 @@
 Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
 
 ## `PROFESSIONAL EXPERIENCE`
-> #### Data Analyst, Cansoft Technologies                                    January 2024 - Present
-[ ] Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
-[ ] Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
-[ ] Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
-[ ] Conducted peer code reviews and contributed to process improvements in data management.
+#### Data Analyst, Cansoft Technologies                                    January 2024 - Present
+- Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
+- Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
+- Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
+- Conducted peer code reviews and contributed to process improvements in data management.
 ##### Key Achievements:
-- [ ] Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
-- [ ] Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
-- [ ] Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
+- Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
+- Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
+- Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
 
-> #### Instructor, Memorial University of Newfoundland           September 2021 – January 2024
-- [ ] Automated data workflows using Python, improving lab operations and efficiency.
-- [ ] Developed scripts for file management with AWS S3 and maintained documentation using Git.
-- [ ] Taught and designed labs in computer science and engineering, leveraging tools like SSMS, SSIS, and MATLAB.
+> #### Lab Instructor, Memorial University of Newfoundland           September 2021 – January 2024
+- Automated data workflows using Python, improving lab operations and efficiency.
+- Developed scripts for file management with AWS S3 and maintained documentation using Git.
+- [Taught and designed labs in computer science and engineering, leveraging tools like SSMS, SSIS, and MATLAB.
 
 > #### Data Analyst, Mi2LABS                                January 2017 - August 2021
-- [ ] Optimized data pipelines with SQL and Python, ensuring data accuracy and accessibility.
-- [ ] Performed statistical analysis to guide data-driven decision-making and created Power BI and Tableau dashboards.
-- [ ] Developed and tested ETL processes to support business-critical operations and strategic initiatives.
+- Optimized data pipelines with SQL and Python, ensuring data accuracy and accessibility.
+- Performed statistical analysis to guide data-driven decision-making and created Power BI and Tableau dashboards.
+- Developed and tested ETL processes to support business-critical operations and strategic initiatives.
 
 > #### SolidWorks Designer, Steelcraft, Edmonton, AB             August 2015 - December 2016
-- [ ] Provided technical solutions using LabView and MATLAB, managed inventory, and created SolidWorks designs to meet business requirements.
+- Provided technical solutions using LabView and MATLAB, managed inventory, and created SolidWorks designs to meet business requirements.
 
 
 ## `PROJECT EXPERIENCE`
@@ -80,7 +80,7 @@ Data and BI Analyst with 8+ years of experience in data migration, modeling, and
 - [ ] Organizational Analysis (Stanford University, Coursera)
 
 ### `HOBBY`
-In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+> In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 ### `CONTACTS`
 - [LinkedIn](https://www.linkedin.com/in/s-n-m-azizul-hoque-baba3b27/)
