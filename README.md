@@ -1,43 +1,46 @@
 ## `PROFESSIONAL SUMMARY`
-> Data and BI Analyst with 8+ years of experience in data migration, modeling, and end-to-end data warehousing. Proficient in SQL, Python, Power BI, Tableau, and cloud platforms like Azure and Google Cloud. Skilled in delivering scalable BI solutions through advanced statistical analysis, data visualization, and image processing. Strong collaborator, adept at engaging with stakeholders and working effectively in diverse teams.
+> Senior Data Analyst with over 8 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, SSIS, optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
 
 ## `PROFESSIONAL EXPERIENCE`
-#### Data Analyst, Cansoft Technologies                                    January 2024 - Present
-- Developed and maintained data warehouse solutions, optimizing ETL processes to ensure data integrity.
-- Designed and implemented Power BI dashboards, delivering actionable insights for business decisions.
-- Collaborated with stakeholders to define data requirements and provided ongoing training in data utilization.
-- Conducted peer code reviews and contributed to process improvements in data management.
+ #### Data Analyst, Cansoft Technologies <p align="right">January 2024 - Present</p> 
+- Prepared and analyzed model performance for originations, account management, collections, and regulatory capital.
+-	Leveraged cloud platforms using Google Cloud and Microsoft Azure to build modern data infrastructure, enabling efficient data pipelines and data management processes for retail models lifecycle modernization.
+-	Conducted data profiling, quality assessments, and data reconciliation between legacy systems and modern target state environments to ensure data accuracy and integrity.
+-	Developed and deployed Power BI reports to visualize key business insights and metrics for stakeholders, improving decision-making processes.
+-	Managed team stakeholder requirements and communications across multiple departments, ensuring alignment between model owners, operations, technology, and business partners.
+-	Utilized Python for data manipulation and SQL for data modeling and profiling tasks, streamlining data workflows and improving operational efficiency.
+
 ##### Key Achievements:
 - Improved the efficiency of reporting processes by optimizing Excel templates and Power BI dashboards, reducing reporting time by 20%.
 - Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
 - Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
 
-#### Lab Instructor, Memorial University of Newfoundland           September 2021 – January 2024
-- Automated data workflows using Python, improving lab operations and efficiency.
-- Developed scripts for file management with AWS S3 and maintained documentation using Git.
-- [Taught and designed labs in computer science and engineering, leveraging tools like SSMS, SSIS, and MATLAB.
+#### Lab Instructor, Memorial University of Newfoundland      <p align="right">September 2021 – January 2024</p>
+-	Designed and developed data pipelines for large-scale data facilitating smoother data transitions between different operational environments.
+-	Liaised with business partners and technology teams to gather data requirements.
+-	Led data quality assessments and reconciliation projects, ensuring high standards of accuracy during data migrations.
+-	Built and tested ETL processes for efficient data movement and transformation, applying data modeling techniques to optimize reporting and analysis frameworks
 
-#### Data Analyst, Mi2LABS                                January 2017 - August 2021
+#### Data Analyst, Mi2LABS             <p align="right">January 2017 - August 2021</p>
 - Optimized data pipelines with SQL and Python, ensuring data accuracy and accessibility.
 - Performed statistical analysis to guide data-driven decision-making and created Power BI and Tableau dashboards.
 - Developed and tested ETL processes to support business-critical operations and strategic initiatives.
 
-#### SolidWorks Designer, Steelcraft, Edmonton, AB             August 2015 - December 2016
+#### SolidWorks Designer, Steelcraft, Edmonton, AB           <p align="right">August 2015 - December 2016</p>    
 - Provided technical solutions using LabView and MATLAB, managed inventory, and created SolidWorks designs to meet business requirements.
 
 
 ## `PROJECT EXPERIENCE`
 #### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies](https://snmhoque123.github.io/sql.github.io/)
-- [ ] Analyzed OLAP using multi-dimensional data organization techniques and related tools.
-- [ ] Developed and tested ETL processes for data movement from heterogeneous source systems (MS SQL database, flat files) to EDW database.
-- [ ] Analyzed the impact on delivery services and customer traffic, resulting in a 30% reduction in overhead costs.
-- [ ] Built data visualization dashboards, tools, and infrastructure Tableau and Power BI.
-- [ ] **Tools Used**: SSMS, SSRS, SSAS, DAX, Power BI, Power Query, Tableau
+- [ ]	Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
+- [ ]	Created data visualization dashboards using Power BI and Tableau, resulting in a 30% reduction in operational costs.
+- [ ]	Ensured compliance with internal data standards and external audit requirements, improving the accuracy and reliability of reports.
+- [ ] **Tools Used**: SSMS, SSIS, SSAS, Python, SAS, Google BigQuery, Power BI
 
 #### [Data Warehouse Design of Human Resource Analysis, Cansoft Technologies](https://public.tableau.com/app/profile/snm.hoque/viz/HR_Report_Tableau_Datbase/TescaHR)
-- [ ] Designed and produced bus matrix to identify conforming role-playing dimensions.
+- [ ]	Designed a human resources data warehouse to track over 200 employee performance, including metrics on absenteeism, misconduct, and overtime, resulting in a 40% improvement in work ethics.
+- [ ]	Ensured the accuracy of data warehouses and reporting systems through regular audits and data quality checks
 - [ ] Monitored and resolved issues within data warehouses, data marts, and reporting systems to ensure data accuracy and availability.
-- [ ] Conducted analyses of overtime, misconduct, and absenteeism, leading to a 40% improvement in work ethics and customer satisfaction.
 - [ ] **Tools Used**: SQL Server, DAX, Power BI, Power Query, Tableau
 
 #### Environmental Data Analysis and Visualization, Cansoft Technologies
@@ -74,7 +77,8 @@
 - [x] B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
 
 ## `CERTIFICATES`
-- [ ] Advance BI Analyst Training (ARAP Technologies)
+- [ ] [Google Business Intelligence Certificate on Coursera (2024)](https://coursera.org/share/a5e1c058eab74699d255d1f07c52ba4f)
+- [ ] Google Advanced Data Analytics Professional Certificate (2024)
 - [ ] [IBM Database and SQL for Data Science with Python](https://coursera.org/verify/SN4EFWQP9XTA)
 - [ ] [IBM Data Analysis with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
 - [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
