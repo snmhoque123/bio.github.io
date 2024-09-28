@@ -15,7 +15,7 @@
 - Enhanced data integrity through meticulous data cleansing and reconciliation, contributing to more accurate decision-making.
 - Successfully managed the reporting process for a large-scale data analysis project, ensuring timely delivery and high-quality insights.
 
-#### Lab Instructor, Memorial University of Newfoundland      <p align="right">September 2021 – January 2024</p>
+#### Data Analyst, Memorial University of Newfoundland      <p align="right">September 2021 – January 2024</p>
 -	Designed and developed data pipelines for large-scale data facilitating smoother data transitions between different operational environments.
 -	Liaised with business partners and technology teams to gather data requirements.
 -	Led data quality assessments and reconciliation projects, ensuring high standards of accuracy during data migrations.
