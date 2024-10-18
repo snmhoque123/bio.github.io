@@ -1,5 +1,5 @@
 ## `PROFESSIONAL SUMMARY`
-> Senior Data Analyst with over 8 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, SSIS, optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
+> Certified Data Professional with over 7 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, SSMS, SSIS, SSAS, SSRS, SAS optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies (Google Cloud and Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
 
 ## `PROFESSIONAL EXPERIENCE`
  #### Data Analyst, Cansoft Technologies, Remote (January 2024 - Present)
@@ -66,7 +66,7 @@
  |Database Management| MS SQL Server, MySQL, BigQuery|
  |------------------------|------------------------------------------|
  |**BI & Data Model Tools**| **Power BI, Tableau, SSIS, SSAS, SSRS, SQL Server Management Studio, Tabular Model, Multi-Dimensional Model**|
- | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query, MATLAB, IDL, RST, Stata**|
+ | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query, SAS, MATLAB, IDL, RST, Stata**|
  | **Data Warehousing**| **Design & Dataflows, Snowflake**|
  | **Cloud Platforms**| **AWS, Azure, Google Cloud Platform**|
  | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
