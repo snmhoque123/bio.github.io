@@ -80,7 +80,7 @@
 
 ## `CERTIFICATES`
 - [ ] [Google Business Intelligence Certificate on Coursera (2024)](https://coursera.org/share/a5e1c058eab74699d255d1f07c52ba4f)
-- [ ] Google Advanced Data Analytics Professional Certificate (2024)
+- [ ] [Google Advanced Data Analytics Professional Certificate (2024)](https://coursera.org/verify/professional-cert/7ODDJHXHLFZW)
 - [ ] [IBM Database and SQL for Data Science with Python](https://coursera.org/verify/SN4EFWQP9XTA)
 - [ ] [IBM Data Analysis with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
 - [ ] [IBM Data Visualization with Python](https://www.coursera.org/user/4ed67fcc41caae342302b2e71ec06819)
