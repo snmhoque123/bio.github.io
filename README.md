@@ -33,9 +33,9 @@
 
 
 ## `PROJECT EXPERIENCE`
-#### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies](https://snmhoque123.github.io/sql.github.io/)
+#### [Building Fleet and Equipment Retail Analytics Solutions, Cansoft Technologies]([https://snmhoque123.github.io/sql.github.io/](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9))
 - [ ]	Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
-- [ ]	Created data visualization dashboards using Power BI and Tableau, resulting in a 30% reduction in operational costs.
+- [ ]	Created data visualization dashboards using <b>[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9) and [Tableau](https://public.tableau.com/app/profile/snm.hoque/vizzes) </b>, resulting in a 30% reduction in operational costs.
 - [ ]	Ensured compliance with internal data standards and external audit requirements, improving the accuracy and reliability of reports.
 - [ ] **Tools Used**: SSMS, SSIS, SSAS, Python, SAS, Google BigQuery, Power BI
 
